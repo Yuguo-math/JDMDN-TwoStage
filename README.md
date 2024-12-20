@@ -1,4 +1,4 @@
-# official implementation and weights of the article : Joint demosaicking and denoising benefits from a two-stage training strategy
+# Official implementation and weights of the article : Joint demosaicking and denoising benefits from a two-stage training strategy
 Joint demosaicking and denoising benefits from a two-stage training strategy
 
 
